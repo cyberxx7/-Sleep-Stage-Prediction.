@@ -1,6 +1,7 @@
 # Sleep Stage Prediction Project
 
 ## Project Overview
+This project uses the dataset "Motion and heart rate from a wrist-worn wearable and labeled sleep from polysomnography". The dataset was collected and described by Olivia Walch, Yitong Huang, Daniel Forger, and Cathy Goldstein in their paper "Sleep stage prediction with raw acceleration and photoplethysmography heart rate data derived from a consumer wearable device" (Sleep, zsz180, https://doi.org/10.1093/sleep/zsz180).
 This project is focused on predicting sleep stages using data from wrist-worn wearable devices such as heart rate, motion, and step count. The data is used to train machine learning and deep learning models to classify sleep stages accurately. This project includes various steps such as data preprocessing, feature extraction, model training, and evaluation.
 
 ## Project Structure
